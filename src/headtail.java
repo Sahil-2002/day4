@@ -32,7 +32,7 @@ public class headtail {
         System.out.println("tail" + tail_percentage);
 
 
-
+        System.out.println("hello everyone ");
 
     }
 
